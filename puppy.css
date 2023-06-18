@@ -1,0 +1,47 @@
+/* Form Styles */
+#new-player-form {
+    margin-bottom: 20px;
+  }
+  
+  #new-player-form input[type="text"],
+  #new-player-form select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #new-player-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #f0ad4e;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Player Card Styles */
+  .player-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .player-card h3 {
+    margin-bottom: 5px;
+  }
+  
+  .player-card p {
+    margin-bottom: 10px;
+  }
+  
+  .player-card button {
+    padding: 5px 10px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
